@@ -1,1 +1,3 @@
-# needed_stuff
+# My configurations of fish and fastfetch
+- ...
+- That's it
